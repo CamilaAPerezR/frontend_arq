@@ -1,0 +1,123 @@
+html {
+  font-family: "Goldman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+header {
+    background-color: #e4a240;
+    color: white;
+    padding: 0.1rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700; /* Aquí aplicamos de forma correcta la variante negrita */
+    margin: 1rem 0;
+}
+
+.lista {
+    width: 300px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+.lista li {
+    background-color: #e4a240;
+    margin: 10px 0;
+    padding: 10px;
+    list-style-position: inside;
+    color: white;
+}
+
+section li:hover {
+    color: black;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+section article {
+    transition: all 0.3s ease;
+    background-color: #fff;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 1rem 0; /* Aumentado un poco el padding vertical para mejor espacio */
+    cursor: grab;
+}
+
+section article:hover {
+    box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.3); /* Suavizado el sombreado para que sea más estético */
+}
+
+/* Corregido el selector para que apunte estrictamente al contenido del artículo */
+section article h2, 
+section article h3, 
+section article p {
+    margin: 1rem;
+    text-align: justify;
+}
+
+section article h2 {
+    font-weight: 700;
+}
+
+img {
+    display: block;
+    margin: 1rem auto; /* Centra la imagen automáticamente dentro del artículo */
+}
+
+/* Contenedor del botón para poder centrarlo fácilmente */
+#ver-mas-1, #ver-mas-2, #ver-mas-3 {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.boton {
+    display: inline-block;
+    width: 100px;
+    padding: 10px 20px;
+    background-color: #e4a240;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none; /* Quita la línea de enlace subrayado por defecto */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.boton:hover {
+    color: black;
+    background-color: #d39130; /* Un tono un poco más oscuro al pasar el cursor */
+}
+
+/* Reestructuración moderna del footer usando Flexbox en lugar de float */
+footer {
+    background-color: #e4a240;
+    padding: 1.5rem;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: black;
+}

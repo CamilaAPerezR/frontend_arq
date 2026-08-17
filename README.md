@@ -6,12 +6,6 @@ El proyecto fue desarrollado desde cero con el fin de aplicar, consolidar y demo
 
 ---
 
-## Enlace del Proyecto en Vivo
-Puedes ver el sitio web funcionando en tiempo real desde cualquier dispositivo a través del siguiente enlace de GitHub Pages:
-**[Ver Página Web en Vivo](https://github.io)**
-
----
-
 ## Obras Arquitectónicas Incluidas
 
 El sitio web presenta una navegación estructurada a través de tarjetas independientes para los siguientes hitos de la ingeniería y el diseño colombiano:

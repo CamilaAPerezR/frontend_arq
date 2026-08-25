@@ -1,4 +1,4 @@
-# Arquitectura en Colombia - Proyecto Front-End
+# Arquitectura en Colombia - Proyecto FrontEnd
 
 **Arquitectura en Colombia**! Este es un sitio web educativo e interactivo diseñado para recopilar, estructurar y presentar información sobre las obras arquitectónicas más emblemáticas y revolucionarias del país. 
 

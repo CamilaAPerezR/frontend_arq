@@ -22,7 +22,7 @@ Para garantizar un código limpio, estructurado y optimizado, se emplearon las s
 *   **HTML5:** Estructuración de contenido mediante etiquetas semánticas (`<header>`, `<section>`, `<article>`, `<footer>`).
 *   **CSS3 Nativo:** Estilización avanzada, bordes redondeados, paleta de colores personalizada y efectos dinámicos de interactividad al pasar el cursor (`:hover`).
 *   **Tipografía Web:** Integración optimizada de fuentes externas a través de **Google Fonts** utilizando la familia tipográfica *"Goldman"*.
-*   **Git & GitHub:** Control de versiones distribuido, organización de ramas y despliegue automatizado en servidores en la nube.
+*   **Git & GitHub:** Control de versiones distribuido, organización de ramas y despliegue automatizado en servidores en la nube
 
 ---
 

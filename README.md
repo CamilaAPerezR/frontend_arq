@@ -47,7 +47,7 @@ frontend_arq/
 
 ## Autor
 
-*   **Mila Pérez** - *Tecnología en Análisis y Desarrollo de Software* - [mila0perez](https://github.com)
+*   **Camila Pérez** - *Tecnología en Análisis y Desarrollo de Software* - [mila0perez](https://github.com)
 
 ---
 *Este proyecto fue desarrollado en el año 2026 como evidencia práctica del aprendizaje en desarrollo web*

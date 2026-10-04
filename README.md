@@ -2,7 +2,7 @@
 
 **Arquitectura en Colombia**! Este es un sitio web educativo e interactivo diseñado para recopilar, estructurar y presentar información sobre las obras arquitectónicas más emblemáticas y revolucionarias del país. 
 
-El proyecto fue desarrollado desde cero con el fin de aplicar, consolidar y demostrar habilidades fundamentales en el desarrollo de software Front-End y maquetación web semántica.
+El proyecto fue desarrollado desde cero con el fin de aplicar, consolidar y demostrar habilidades fundamentales en el desarrollo de software Front-End y maquetación web semántica
 
 ---
 
